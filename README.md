@@ -4,10 +4,13 @@
 
 The purpose of this document is to survey, decide on, and document:
 
-- Workflow and tooling for writing articles.
+- Tooling for writing articles.
     - Preferably writing in markdown
     - Render to PDF article
     - Render to HTML document
+- Workflow
+    - git 
+    - HackMD for getting non-technical collaborators on-board
 - How to handle references
     - Bibliographical sources
     - Bibliographical database
