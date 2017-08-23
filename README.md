@@ -1,6 +1,6 @@
 **Document in progress, not done yet**.
 
-# Introduction
+# Mindmap / notes / tasks / to be introduction
 
 The purpose of this document is to survey, decide on, and document:
 
